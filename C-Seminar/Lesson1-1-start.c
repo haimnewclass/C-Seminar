@@ -3,6 +3,8 @@
 
 int main()
 {
-    printf("This is");
- 
+
+    printf("Hi This is my first program ");
+    
+    return 0;
 }
