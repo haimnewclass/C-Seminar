@@ -13,10 +13,19 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Source Files\Lesson1">
+      <UniqueIdentifier>{b7d77e8d-790a-4028-8753-28372ce51526}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Lesson2">
+      <UniqueIdentifier>{abe1339a-a8d2-409a-af4d-165a92895af0}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Lesson1-1-start.c">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\Lesson1</Filter>
+    </ClCompile>
+    <ClCompile Include="Lesson2-1-Start.c">
+      <Filter>Source Files\Lesson2</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
