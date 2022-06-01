@@ -1,7 +1,7 @@
 #include <stdio.h>
 #pragma warning(disable : 4996)
 
-int main()
+int main_2_1()
 {
     // Haim said: 1111111111111111 16 bits  = 2 bytes 
     // what story I want to write
@@ -9,10 +9,13 @@ int main()
 
     int a; 
     a = -10;
-    int b;
-    b = 30;
+    int b = 10;
+    int tair;
+    tair = 30;
     a = b + 1;
     long c = 123;
+
+    tair = 13 + 89 + a;
 
     short d = -23;
     unsigned short e = 54;

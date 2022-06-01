@@ -142,6 +142,9 @@
     <ClCompile Include="Lesson1-1-start.c" />
     <ClCompile Include="Lesson1-2-printf.c" />
     <ClCompile Include="Lesson2-1-Start.c" />
+    <ClCompile Include="Lesson2-2-Num.cpp" />
+    <ClCompile Include="Lesson2-3-Operations.c" />
+    <ClCompile Include="Lesson2-4-Scanf.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -30,5 +30,14 @@
     <ClCompile Include="Lesson1-2-printf.c">
       <Filter>Source Files\Lesson1</Filter>
     </ClCompile>
+    <ClCompile Include="Lesson2-2-Num.cpp">
+      <Filter>Source Files\Lesson2</Filter>
+    </ClCompile>
+    <ClCompile Include="Lesson2-3-Operations.c">
+      <Filter>Source Files\Lesson2</Filter>
+    </ClCompile>
+    <ClCompile Include="Lesson2-4-Scanf.c">
+      <Filter>Source Files\Lesson2</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
