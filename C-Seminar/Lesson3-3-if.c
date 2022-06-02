@@ -21,7 +21,7 @@ int main()
 	{
 		printf("BIG");
 	}
-	else
+	else   
 	{
 		printf("SMALL");
 	}
