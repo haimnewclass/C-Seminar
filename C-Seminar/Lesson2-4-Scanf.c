@@ -1,7 +1,7 @@
 #include <stdio.h>
 #pragma warning(disable : 4996)
 
-int main()
+int main_2_4()
 {
 	int num1 = 0;	 
 	int num2 = 0;
