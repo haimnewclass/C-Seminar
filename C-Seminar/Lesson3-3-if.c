@@ -2,7 +2,7 @@
 #pragma warning(disable : 4996)
 
 
-int main()
+int main_3_3()
 {
 	int num;
 	
