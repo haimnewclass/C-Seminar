@@ -22,6 +22,9 @@
     <Filter Include="Source Files\Lesson3">
       <UniqueIdentifier>{318ad776-9809-4134-8cb8-9425991b7947}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Lesson4">
+      <UniqueIdentifier>{1ab98a20-6008-4af7-8174-1e40ebbb5888}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Lesson1-1-start.c">
@@ -50,6 +53,21 @@
     </ClCompile>
     <ClCompile Include="Lesson3-3-if.c">
       <Filter>Source Files\Lesson3</Filter>
+    </ClCompile>
+    <ClCompile Include="Lesson3-6-ifelse.c">
+      <Filter>Source Files\Lesson3</Filter>
+    </ClCompile>
+    <ClCompile Include="Lesson3-5-modulu.c">
+      <Filter>Source Files\Lesson3</Filter>
+    </ClCompile>
+    <ClCompile Include="Lesson3-4-smallIf.c">
+      <Filter>Source Files\Lesson3</Filter>
+    </ClCompile>
+    <ClCompile Include="Lesson4-1-Homework1.c">
+      <Filter>Source Files\Lesson4</Filter>
+    </ClCompile>
+    <ClCompile Include="Lesson4-2-ifComplex.c">
+      <Filter>Source Files\Lesson4</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

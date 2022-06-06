@@ -151,6 +151,8 @@
     <ClCompile Include="Lesson3-4-smallIf.c" />
     <ClCompile Include="Lesson3-5-modulu.c" />
     <ClCompile Include="Lesson3-6-ifelse.c" />
+    <ClCompile Include="Lesson4-1-Homework1.c" />
+    <ClCompile Include="Lesson4-2-ifComplex.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
