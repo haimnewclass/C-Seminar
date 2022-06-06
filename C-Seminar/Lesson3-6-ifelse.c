@@ -16,7 +16,7 @@ int main()
 	{
 		printf("Winner");
 	}
-	else 
+	else  
 	{
 		printf("Looser");
 	}
