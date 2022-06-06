@@ -21,11 +21,9 @@ int main()
 	idx = 0;
 	while(idx<4)
 	{
-
 		printf("Please enter new number\n");
 		scanf("%d", &num);
 		sum = sum + num;
-
 
 		idx = idx + 1;
 	}
