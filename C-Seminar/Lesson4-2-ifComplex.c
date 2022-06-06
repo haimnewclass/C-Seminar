@@ -2,7 +2,7 @@
 #pragma warning(disable : 4996)
 
 
-int main()
+int main_4_2()
 {
 	int num1;
 	scanf("%d", &num1);

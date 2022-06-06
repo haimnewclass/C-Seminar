@@ -69,5 +69,8 @@
     <ClCompile Include="Lesson4-2-ifComplex.c">
       <Filter>Source Files\Lesson4</Filter>
     </ClCompile>
+    <ClCompile Include="Lesson4-3-loop.c">
+      <Filter>Source Files\Lesson4</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
