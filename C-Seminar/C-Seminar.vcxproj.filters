@@ -76,6 +76,15 @@
       <Filter>Source Files\Lesson5</Filter>
     </ClCompile>
     <ClCompile Include="Lesson4-3-loop.c">
+      <Filter>Source Files\Lesson4</Filter>
+    </ClCompile>
+    <ClCompile Include="Lesson5-loop.c">
+      <Filter>Source Files\Lesson5</Filter>
+    </ClCompile>
+    <ClCompile Include="Lesson5-index-loop.c">
+      <Filter>Source Files\Lesson5</Filter>
+    </ClCompile>
+    <ClCompile Include="Lesson5-for.c">
       <Filter>Source Files\Lesson5</Filter>
     </ClCompile>
   </ItemGroup>

@@ -154,7 +154,10 @@
     <ClCompile Include="Lesson4-1-Homework1.c" />
     <ClCompile Include="Lesson4-2-ifComplex.c" />
     <ClCompile Include="Lesson4-3-loop.c" />
+    <ClCompile Include="Lesson5-for.c" />
     <ClCompile Include="Lesson5-Homework.c" />
+    <ClCompile Include="Lesson5-index-loop.c" />
+    <ClCompile Include="Lesson5-loop.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
