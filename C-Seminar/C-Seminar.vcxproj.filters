@@ -25,6 +25,9 @@
     <Filter Include="Source Files\Lesson4">
       <UniqueIdentifier>{1ab98a20-6008-4af7-8174-1e40ebbb5888}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Lesson5">
+      <UniqueIdentifier>{85a41cee-f4a4-456b-84f1-c4d434f04deb}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Lesson1-1-start.c">
@@ -69,8 +72,11 @@
     <ClCompile Include="Lesson4-2-ifComplex.c">
       <Filter>Source Files\Lesson4</Filter>
     </ClCompile>
+    <ClCompile Include="Lesson5-Homework.c">
+      <Filter>Source Files\Lesson5</Filter>
+    </ClCompile>
     <ClCompile Include="Lesson4-3-loop.c">
-      <Filter>Source Files\Lesson4</Filter>
+      <Filter>Source Files\Lesson5</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
