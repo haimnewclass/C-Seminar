@@ -93,5 +93,8 @@
     <ClCompile Include="Lesson6-homework.c">
       <Filter>Source Files\Lesson6</Filter>
     </ClCompile>
+    <ClCompile Include="Lesson6-oneLoop.c">
+      <Filter>Source Files\Lesson6</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

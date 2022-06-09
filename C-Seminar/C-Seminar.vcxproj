@@ -159,6 +159,7 @@
     <ClCompile Include="Lesson5-index-loop.c" />
     <ClCompile Include="Lesson5-loop.c" />
     <ClCompile Include="Lesson6-homework.c" />
+    <ClCompile Include="Lesson6-oneLoop.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
