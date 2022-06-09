@@ -2,7 +2,7 @@
 #pragma warning(disable : 4996)
 
 
-int main()
+int main_6_9()
 {
 	// external loop
 	for (int i = 0; i < 5; i++)
