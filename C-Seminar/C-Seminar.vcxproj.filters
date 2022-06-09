@@ -105,5 +105,17 @@
     <ClCompile Include="Lesson6-array.cpp">
       <Filter>Source Files\Lesson6</Filter>
     </ClCompile>
+    <ClCompile Include="Lesson6-array2.c">
+      <Filter>Source Files\Lesson6</Filter>
+    </ClCompile>
+    <ClCompile Include="Lesson6-array3.c">
+      <Filter>Source Files\Lesson6</Filter>
+    </ClCompile>
+    <ClCompile Include="Lesson6-array4.c">
+      <Filter>Source Files\Lesson6</Filter>
+    </ClCompile>
+    <ClCompile Include="Lesson6-array5.c">
+      <Filter>Source Files\Lesson6</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

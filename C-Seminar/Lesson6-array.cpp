@@ -2,7 +2,7 @@
 #pragma warning(disable : 4996)
 
 
-int main()
+int main_6_12()
 {
 	// Array -
 	int students[6];
