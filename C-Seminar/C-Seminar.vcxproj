@@ -167,6 +167,9 @@
     <ClCompile Include="Lesson6-knestedLoop.cpp" />
     <ClCompile Include="Lesson6-oneLoop.c" />
     <ClCompile Include="Lesson6-workClass.c" />
+    <ClCompile Include="Lesson7-functions.c" />
+    <ClCompile Include="Lesson7-functions2.c" />
+    <ClCompile Include="Lesson7-homework.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
