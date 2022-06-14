@@ -150,5 +150,11 @@
     <ClCompile Include="Lesson8-string2.c">
       <Filter>Source Files\Lesson8</Filter>
     </ClCompile>
+    <ClCompile Include="Lesson8-string-classwork.c">
+      <Filter>Source Files\Lesson8</Filter>
+    </ClCompile>
+    <ClCompile Include="Lesson8-strings-functions.c">
+      <Filter>Source Files\Lesson8</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

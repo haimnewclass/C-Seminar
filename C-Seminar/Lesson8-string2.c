@@ -2,7 +2,7 @@
 #pragma warning(disable : 4996)
 
 
-int main()
+int main_8_9()
 {
 	// array of char String
 	char str[100];
