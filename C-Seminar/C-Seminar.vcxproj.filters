@@ -168,5 +168,8 @@
     <ClCompile Include="Lesson9-pointer-strstr.c">
       <Filter>Source Files\Lesson9</Filter>
     </ClCompile>
+    <ClCompile Include="Lesson9-pointer-strstr2.c">
+      <Filter>Source Files\Lesson9</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
