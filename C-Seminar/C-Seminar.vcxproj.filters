@@ -37,6 +37,9 @@
     <Filter Include="Source Files\Lesson8">
       <UniqueIdentifier>{b742588a-f188-4214-8317-d559d3f27ec2}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Lesson9">
+      <UniqueIdentifier>{01b1c4eb-a97e-48f3-85a9-ffe21df6a06b}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Lesson1-1-start.c">
@@ -155,6 +158,9 @@
     </ClCompile>
     <ClCompile Include="Lesson8-strings-functions.c">
       <Filter>Source Files\Lesson8</Filter>
+    </ClCompile>
+    <ClCompile Include="Lesson9-homework.c">
+      <Filter>Source Files\Lesson9</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

@@ -178,6 +178,7 @@
     <ClCompile Include="Lesson8-string1.c" />
     <ClCompile Include="Lesson8-string2.c" />
     <ClCompile Include="Lesson8-strings-functions.c" />
+    <ClCompile Include="Lesson9-homework.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
