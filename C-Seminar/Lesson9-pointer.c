@@ -13,8 +13,10 @@ int main_9_1()
 	// kuku is variablr of pointer type
 	char *kuku;
 
+	// Now str and kuku are pointed in same memory address
 	kuku = str;
 
+	// Now str and kuku are pointed to "Lhit" value
 	strcpy(kuku, "Lhit");
 
 	
