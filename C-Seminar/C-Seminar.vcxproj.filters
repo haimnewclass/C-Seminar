@@ -40,6 +40,9 @@
     <Filter Include="Source Files\Lesson9">
       <UniqueIdentifier>{01b1c4eb-a97e-48f3-85a9-ffe21df6a06b}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Lesson10">
+      <UniqueIdentifier>{1258cc05-ac41-4487-bc30-ed9564e66c89}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Lesson1-1-start.c">
@@ -170,6 +173,9 @@
     </ClCompile>
     <ClCompile Include="Lesson9-pointer-strstr2.c">
       <Filter>Source Files\Lesson9</Filter>
+    </ClCompile>
+    <ClCompile Include="Lesson10-homework.c">
+      <Filter>Source Files\Lesson10</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

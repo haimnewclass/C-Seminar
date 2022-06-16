@@ -2,7 +2,7 @@
 #include <string.h>
 #pragma warning(disable : 4996)
 
-int main()
+int main_9_90()
 {
 
 	char str1[1000];
@@ -10,6 +10,13 @@ int main()
 
 	gets(str1);
 	gets(str2);
+
+	//
+	char* p = str1;
+	p = p + 3;
+
+
+	//
 
 	char* pt = strstr(str2, str1);
 	if (pt != 0)
