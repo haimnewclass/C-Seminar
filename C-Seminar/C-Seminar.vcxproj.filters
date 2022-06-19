@@ -177,5 +177,8 @@
     <ClCompile Include="Lesson10-homework.c">
       <Filter>Source Files\Lesson10</Filter>
     </ClCompile>
+    <ClCompile Include="Lesson10-atoi.c">
+      <Filter>Source Files\Lesson10</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

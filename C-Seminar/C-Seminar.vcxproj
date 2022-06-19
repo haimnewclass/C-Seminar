@@ -139,6 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Lesson10-atoi.c" />
     <ClCompile Include="Lesson10-homework.c" />
     <ClCompile Include="Lesson7-functions3.c" />
     <ClCompile Include="Lesson1-1-start.c" />

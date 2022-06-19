@@ -3,7 +3,7 @@
 #pragma warning(disable : 4996)
 
 
-int main()
+int main_hw_1()
 {
 	char str[1000];
 	char strTarget[1000];
