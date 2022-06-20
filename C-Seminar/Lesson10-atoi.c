@@ -2,8 +2,14 @@
 #pragma warning(disable : 4996)
 
 
-int main()
+int main_10_atio()
 {
+	char str[1000];
+	
+	gets(str);
+	
+
+
 	char str1[100];
 	strcpy(str1, "100");
 
