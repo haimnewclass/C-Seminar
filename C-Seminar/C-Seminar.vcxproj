@@ -168,7 +168,7 @@
     <ClCompile Include="Lesson6-array4.c" />
     <ClCompile Include="Lesson6-array5.c" />
     <ClCompile Include="Lesson6-homework.c" />
-    <ClCompile Include="Lesson6-knestedLoop.cpp" />
+    <ClCompile Include="Lesson6-knestedLoop.c" />
     <ClCompile Include="Lesson6-oneLoop.c" />
     <ClCompile Include="Lesson6-workClass.c" />
     <ClCompile Include="Lesson7-functions.c" />

@@ -108,7 +108,7 @@
     <ClCompile Include="Lesson6-oneLoop.c">
       <Filter>Source Files\Lesson6</Filter>
     </ClCompile>
-    <ClCompile Include="Lesson6-knestedLoop.cpp">
+    <ClCompile Include="Lesson6-knestedLoop.c">
       <Filter>Source Files\Lesson6</Filter>
     </ClCompile>
     <ClCompile Include="Lesson6-workClass.c">

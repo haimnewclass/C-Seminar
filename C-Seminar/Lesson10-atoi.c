@@ -7,8 +7,7 @@ int main_10_atio()
 	char str[1000];
 	
 	gets(str);
-	
-
+				
 
 	char str1[100];
 	strcpy(str1, "100");
@@ -21,6 +20,6 @@ int main_10_atio()
 	num1 = atoi(str1);
 	num2 = atoi(str2);
 	sum = num1 + num2;
-
+	printf("");
 	return 0;
 }
